@@ -3,7 +3,8 @@
 
 machines = {
   "master" => {"memory" => "2048", "cpu" => "2", "ip" => "210", "image" => "bento/ubuntu-22.04"},
-  "worker01" => {"memory" => "1024", "cpu" => "1", "ip" => "220", "image" => "bento/ubuntu-22.04"}
+  "worker01" => {"memory" => "1024", "cpu" => "1", "ip" => "220", "image" => "bento/ubuntu-22.04"},
+  "worker02" => {"memory" => "512", "cpu" => "1", "ip" => "220", "image" => "bento/ubuntu-22.04"}
 }
 
 
@@ -32,3 +33,4 @@ Vagrant.configure("2") do |config|
     end
   end
 end
+
