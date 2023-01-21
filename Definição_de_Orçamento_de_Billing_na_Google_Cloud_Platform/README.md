@@ -13,3 +13,15 @@ Projeto com o objetivo em apresentar o conhecimento adquirido na elaboração de
 ## Nesta tela os campos já preenchido com as informações de orçamento e limites.
 
 ![](https://github.com/andrerj2000/Dio_DevOps_Banco_Carrefour/blob/main/Defini%C3%A7%C3%A3o_de_Or%C3%A7amento_de_Billing_na_Google_Cloud_Platform/Tela03.png)
+
+## Nesta tela foi estipulado o valor de R$250,00 (Duzentos e cinquenta reais) como orçamento e limites.
+
+![](https://github.com/andrerj2000/Dio_DevOps_Banco_Carrefour/blob/main/Defini%C3%A7%C3%A3o_de_Or%C3%A7amento_de_Billing_na_Google_Cloud_Platform/Tela04.png)
+
+## Nesta tela o valor de R$250,00 (Duzentos e cinquenta reais) foi distribuido entre os alerta de 50%, 90% e 100% para o orçamento e limites.
+
+![](https://github.com/andrerj2000/Dio_DevOps_Banco_Carrefour/blob/main/Defini%C3%A7%C3%A3o_de_Or%C3%A7amento_de_Billing_na_Google_Cloud_Platform/Tela05.png)
+
+## Nesta tela final do orçamento e limites.
+
+![](https://github.com/andrerj2000/Dio_DevOps_Banco_Carrefour/blob/main/Defini%C3%A7%C3%A3o_de_Or%C3%A7amento_de_Billing_na_Google_Cloud_Platform/Tela06.png)
