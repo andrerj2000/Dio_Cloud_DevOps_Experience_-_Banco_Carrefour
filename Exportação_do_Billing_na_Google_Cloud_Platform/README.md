@@ -1,6 +1,6 @@
 # Exportação do Billing na Google Cloud Platform.
 
-Projeto com o objetivo em apresentar o conhecimento adquirido na elaboração de limites de orçamento de um projeto, usando a ferramenta Export Bulling com o intuito de apresentar custos dos recursos consumido.
+Projeto com o objetivo em apresentar o conhecimento adquirido na elaboração de limites de orçamento de um projeto, usando a ferramenta Billing Export com o intuito de apresentar custos dos recursos consumido.
 
 ## Tela inicial de Exportação do Billing na Google Cloud Platforms.
 
