@@ -8,4 +8,4 @@ Projeto com o objetivo em apresentar o conhecimento adquirido sobre formas de pe
 
 ## Personalizando Dashboard tela 02.
 
-![]((https://github.com/andrerj2000/Dio_DevOps_Banco_Carrefour/blob/main/Personalizando_Dashboard_e_Trocando_as_Prefer%C3%AAncias_de_Idioma/Tela02.png)
+![](https://github.com/andrerj2000/Dio_DevOps_Banco_Carrefour/blob/main/Personalizando_Dashboard_e_Trocando_as_Prefer%C3%AAncias_de_Idioma/Tela02.png)
